@@ -1,5 +1,7 @@
 # School-Projects
 
+<html>
+
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
 
 <!-- 
@@ -12,4 +14,4 @@ After linking to the API library, the following code is all you need to embed a 
   height='600px' width='600px' toolbar='bottom' hide-tabs>
 </tableau-viz>
 
-
+</html>
