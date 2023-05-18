@@ -10,3 +10,6 @@
 </tableau-viz>
 
 </html>
+
+
+<iframe src="https://public.tableau.com/embed/DashboardName?:display_count=y&:origin=viz_share_link" width="1000" height="600" frameborder="0" allowfullscreen></iframe>
